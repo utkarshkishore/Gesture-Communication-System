@@ -47,5 +47,4 @@ From the UI:
 - `alphabet/` and `filtered_data/`: assets for sign GIF generation
 
 ## Troubleshooting
-- If the webcam window won’t close, close the OpenCV window directly (X) or press `q`.
 - If MediaPipe errors appear, reinstall with the pinned version in `requirements-run.txt`.
